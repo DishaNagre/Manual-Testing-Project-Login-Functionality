@@ -33,7 +33,7 @@
 ---
 
 #### **Bug Report**  
-| **Bug ID** | **Severity** | **Priority** | **Description**                | **Steps to Reproduce**                                                 | **Expected Result**                     | **Actual Result**       | **Status** |
+| **Bug ID** | **Severity** | **Priority** | **Description**                | **Steps to Reproduce**                                                | **Expected Result**                     | **Actual Result**       | **Status** |
 |------------|--------------|--------------|--------------------------------|------------------------------------------------------------------------|-----------------------------------------|-------------------------|------------|
 | BUG001     | Medium       | High         | Error message overlaps with UI | 1. Open login page<br>2. Enter invalid username/password<br>3. Click Login | Error should appear without UI issues | Error overlaps with buttons | Open       |
 
